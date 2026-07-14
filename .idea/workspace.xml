@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd096b10-f025-4de7-989b-fbaa7a0eccb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SistemaDeControleDeEstoque.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControleDeEstoque.py" afterDir="false" />
+    <list default="true" id="cd096b10-f025-4de7-989b-fbaa7a0eccb6" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControleDeEstoque.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControleDeEstoque.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,99 +23,111 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;afonsomarquesEh9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/afonsomarquesEh9/SistemaDeControleDeEstoque.git&quot;,
+    &quot;accountId&quot;: &quot;ddace16c-af2b-4260-a26e-dc17c8c5c6af&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000206208965" />
-      <entry key="S10" value="1.0001978713909079" />
-      <entry key="S30" value="1.174702087946488" />
-      <entry key="S60" value="2.081492003227882" />
-      <entry key="M2" value="3.7819133041252346" />
-      <entry key="M5" value="6.689367473713027" />
-      <entry key="M10" value="11.184869955964047" />
-      <entry key="M15" value="17.86263306032646" />
-      <entry key="M30" value="43.66516786461423" />
-      <entry key="H1" value="83.60260803799123" />
-      <entry key="H2" value="121.31230674157592" />
-      <entry key="H4" value="147.69644705446836" />
-      <entry key="D1" value="174.8923409317634" />
-      <entry key="W1" value="180.1127043541427" />
+      <entry key="MS500" value="1.0001721555127545" />
+      <entry key="S2" value="1.114546080584419" />
+      <entry key="S5" value="1.4203316507899373" />
+      <entry key="S10" value="1.6483298934879236" />
+      <entry key="S30" value="1.8655461211237792" />
+      <entry key="S60" value="1.945731478742784" />
+      <entry key="M2" value="2.632824451945373" />
+      <entry key="M5" value="13.144650675742199" />
+      <entry key="M10" value="36.45057693321097" />
+      <entry key="M15" value="55.168678171101455" />
+      <entry key="M30" value="95.9589012204536" />
+      <entry key="H1" value="149.81565512644846" />
+      <entry key="H2" value="204.1456090156359" />
+      <entry key="H4" value="245.0207972544177" />
+      <entry key="D1" value="289.6398542377439" />
+      <entry key="W1" value="298.48730476176974" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.607227830970696E-83" />
-      <entry key="S2" value="3.0078969235239508E-21" />
-      <entry key="S5" value="7.950999746368294E-9" />
-      <entry key="S10" value="1.2136489487856914E-4" />
-      <entry key="S30" value="0.07787658862989534" />
-      <entry key="S60" value="0.39467880507586267" />
-      <entry key="M2" value="0.9212556985876935" />
-      <entry key="M5" value="1.9827876435231933" />
-      <entry key="M10" value="3.454085677099096" />
-      <entry key="M15" value="4.715095418945691" />
-      <entry key="M30" value="7.502495604776007" />
-      <entry key="H1" value="10.584064379169044" />
-      <entry key="H2" value="13.15702392074026" />
-      <entry key="H4" value="14.87807401939" />
-      <entry key="D1" value="16.613965002656723" />
-      <entry key="W1" value="16.943991551101142" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="8.40160918799975E-102" />
+      <entry key="S5" value="3.713171345554118E-41" />
+      <entry key="S10" value="6.093580267100926E-21" />
+      <entry key="S30" value="1.8351075991898134E-7" />
+      <entry key="S60" value="4.6401148046193875E-4" />
+      <entry key="M2" value="0.030830838838639994" />
+      <entry key="M5" value="0.6286980298516327" />
+      <entry key="M10" value="2.295137011711552" />
+      <entry key="M15" value="3.9716298842982245" />
+      <entry key="M30" value="8.08616073102684" />
+      <entry key="H1" value="13.107184109713401" />
+      <entry key="H2" value="17.647751603010246" />
+      <entry key="H4" value="20.857668095380667" />
+      <entry key="D1" value="24.231520751277014" />
+      <entry key="W1" value="24.888098925027652" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.638358249840895E-5" />
-      <entry key="MS500" value="0.12141343694270415" />
-      <entry key="S2" value="0.5902917157405034" />
-      <entry key="S5" value="0.8098912161497794" />
-      <entry key="S10" value="0.9002388264959144" />
-      <entry key="S30" value="1.2139044577544802" />
-      <entry key="S60" value="2.447720381115658" />
-      <entry key="M2" value="4.681017523382806" />
-      <entry key="M5" value="8.656356491102185" />
-      <entry key="M10" value="14.62359240778501" />
-      <entry key="M15" value="22.56047143597493" />
-      <entry key="M30" value="51.146942652492314" />
-      <entry key="H1" value="94.16756954165132" />
-      <entry key="H2" value="134.45576733013715" />
-      <entry key="H4" value="162.56635335982833" />
-      <entry key="D1" value="191.5047082315796" />
-      <entry key="W1" value="197.05646120189655" />
+      <entry key="MS100" value="7.682461166814563E-6" />
+      <entry key="MS500" value="0.09487232259809888" />
+      <entry key="S2" value="0.6091606408137396" />
+      <entry key="S5" value="1.1017147451728755" />
+      <entry key="S10" value="1.4470833887559857" />
+      <entry key="S30" value="1.7849174475206224" />
+      <entry key="S60" value="1.9036507828344655" />
+      <entry key="M2" value="2.638017200449929" />
+      <entry key="M5" value="13.745900865281229" />
+      <entry key="M10" value="38.71622572111682" />
+      <entry key="M15" value="59.111873022430096" />
+      <entry key="M30" value="104.01886187249089" />
+      <entry key="H1" value="162.9000775862408" />
+      <entry key="H2" value="221.77676074225406" />
+      <entry key="H4" value="265.86815916217705" />
+      <entry key="D1" value="313.86928885132613" />
+      <entry key="W1" value="323.3750951903253" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GHQ0xCKQhD3xneqaNadzRgQz4a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ControleDeEstoque.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ControleDeEstoque.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -131,14 +138,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1783625794935</updated>
-      <workItem from="1783625796036" duration="7277000" />
+      <workItem from="1783625796036" duration="7332000" />
+      <workItem from="1783979443545" duration="321000" />
+      <workItem from="1783979979846" duration="2958000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1783633400598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783633400599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SistemaDeControleDeEstoque$ControleDeEstoque.coverage" NAME="ControleDeEstoque Coverage Results" MODIFIED="1783633173461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SistemaDeControleDeEstoque$ControleDeEstoque.coverage" NAME="ControleDeEstoque Coverage Results" MODIFIED="1783987317468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
